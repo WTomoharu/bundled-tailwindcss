@@ -1,0 +1,12 @@
+# mac
+.DS_Store
+
+# node
+node_modules
+
+# dir
+dist
+@ignore
+
+# env
+.env
